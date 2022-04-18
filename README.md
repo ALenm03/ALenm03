@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ALenm03
-- 👀 I’m interested in Videogames
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on I still dont know
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me alanleon121203@gmail.com
 
 <!---
